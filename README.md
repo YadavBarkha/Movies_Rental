@@ -124,18 +124,19 @@ Retrieve customer first name, last name, and email ID.
 ![Movies Categorized by Length](https://github.com/YadavBarkha/Movies_Rental/blob/10401811a825e4306efe20e9464bfdc128d92df2/23.png)
 
 ### 24. Movie Recommendations by Age Group
-![Age-Based Recommendations](https://github.com/YadavBarkha/Movies_Rental/blob/10401811a825e4306efe20e9464bfdc128d92df2/24.png)
+![Age-Based Recommendations](https://github.com/YadavBarkha/Movies_Rental/blob/10401811a825e4306efe20e9464bfdc128d92df2/25.png)
 
 ### 25. Films Inventory List
-![Films in Inventory](https://github.com/YadavBarkha/Movies_Rental/blob/10401811a825e4306efe20e9464bfdc128d92df2/25.png)
+![Films in Inventory](https://github.com/YadavBarkha/Movies_Rental/blob/10401811a825e4306efe20e9464bfdc128d92df2/27.png)
 
 ### 26. Actor Movie Count
-![Actor Movie Count](https://github.com/YadavBarkha/Movies_Rental/blob/10401811a825e4306efe20e9464bfdc128d92df2/26.png)
+![Actor Movie Count](https://github.com/YadavBarkha/Movies_Rental/blob/10401811a825e4306efe20e9464bfdc128d92df2/28.png)
 
 ### 27. Number of Actors per Film
-![Actors per Title](https://github.com/YadavBarkha/Movies_Rental/blob/10401811a825e4306efe20e9464bfdc128d92df2/27.png)
+![Actors per Title](https://github.com/YadavBarkha/Movies_Rental/blob/10401811a825e4306efe20e9464bfdc128d92df2/29.png)
 
 ### 28. List of Staff and Advisors
-![Staff and Advisors]()
+![Staff and Advisors](https://github.com/YadavBarkha/Movies_Rental/blob/86a13415725ac0ab309dafbbbc133e7672141e31/last.png)
+
 ---
 
