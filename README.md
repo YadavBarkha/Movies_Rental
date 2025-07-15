@@ -67,37 +67,52 @@ Retrieve customer first name, last name, and email ID.
 
 ### 5. Most Prevalent Rating per Store
 ![Rating per Store]
+
 ### 6. List of Films by Name, Category, and Language
 ![Film List]()
 
 ### 7. Movie Rental Frequency
 ![Rental Popularity](
+
 ### 8. Top 10 Grossing Films
 ![Revenue per Film](
+
 ### 9. Highest Spending Customer
 ![Most Spending Customer](
+
 ### 10. Store with Most Revenue
 ![Highest Revenue Store](
+
 ### 11. Monthly Rentals Count
 ![Rentals Per Month](
+
 ### 12. Customers Eligible for Rewards
 ![Reward Eligible Customers]
+
 ### 13. Payments from First 100 Customers
 ![First 100 Customer Payments]
+
 ### 14. Payments Over $5 Since Jan 1, 2006
 ![Payments Over $5](
+
 ### 15. Payments Over $5 for Specific Customers
 ![Payments Over $5](
+
 ### 16. Films with 'Behind the Scenes' Special Feature
 ![Behind the Scenes Films](
+
 ### 17. Unique Movie Ratings and Count
 ![Unique Ratings]
+
 ### 18. Titles Count by Rental Duration
 ![Rental Duration Count](
+
 ### 19. Ratings, Movie Count, Length, and Rental Duration
 ![Ratings and Rental Duration](
+
 ### 20. Film Count by Replacement Cost with Rental Rates
 ![Replacement Cost Analysis](
+
 ### 21. Customers with Less Than 15 Rentals
 ![Low Rental Customers](
 ### 22. Longest Films Sorted by Length and Rental Rate
