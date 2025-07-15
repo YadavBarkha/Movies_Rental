@@ -58,7 +58,7 @@ Retrieve customer first name, last name, and email ID.
 ![Customer Info](https://github.com/YadavBarkha/Movies_Rental/blob/main/Screenshot%202025-07-15%20125913.png)
 
 ### 2. Count of Movies with Rental Rate of $0.99
-![Cheapest Rental]()
+![Cheapest Rental](https://github.com/YadavBarkha/Movies_Rental/blob/bf4ef84b206bc3907c7a00072dfd5e8e45df1add/2.png)
 
 ### 3. Rental Rate Distribution and Movie Count
 ![Total Movies per Rental Rate](https://github.com/YadavBarkha/Movies_Rental/blob/10401811a825e4306efe20e9464bfdc128d92df2/3.png)
