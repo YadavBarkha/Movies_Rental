@@ -58,77 +58,84 @@ Retrieve customer first name, last name, and email ID.
 ![Customer Info](https://github.com/YadavBarkha/Movies_Rental/blob/main/Screenshot%202025-07-15%20125913.png)
 
 ### 2. Count of Movies with Rental Rate of $0.99
-![Cheapest Rental](
+![Cheapest Rental]()
+
 ### 3. Rental Rate Distribution and Movie Count
-![Total Movies per Rental Rate]
+![Total Movies per Rental Rate](https://github.com/YadavBarkha/Movies_Rental/blob/10401811a825e4306efe20e9464bfdc128d92df2/3.png)
 
 ### 4. Most Common Movie Rating
-![Rating Count](
+![Rating Count](https://github.com/YadavBarkha/Movies_Rental/blob/10401811a825e4306efe20e9464bfdc128d92df2/4.png)
 
 ### 5. Most Prevalent Rating per Store
-![Rating per Store]
+![Rating per Store](https://github.com/YadavBarkha/Movies_Rental/blob/10401811a825e4306efe20e9464bfdc128d92df2/5.png)
 
 ### 6. List of Films by Name, Category, and Language
-![Film List]()
+![Film List](https://github.com/YadavBarkha/Movies_Rental/blob/10401811a825e4306efe20e9464bfdc128d92df2/6.png)
 
 ### 7. Movie Rental Frequency
-![Rental Popularity](
+![Rental Popularity](https://github.com/YadavBarkha/Movies_Rental/blob/10401811a825e4306efe20e9464bfdc128d92df2/7.png)
 
 ### 8. Top 10 Grossing Films
-![Revenue per Film](
+![Revenue per Film](https://github.com/YadavBarkha/Movies_Rental/blob/10401811a825e4306efe20e9464bfdc128d92df2/8.png)
 
 ### 9. Highest Spending Customer
-![Most Spending Customer](
+![Most Spending Customer](https://github.com/YadavBarkha/Movies_Rental/blob/10401811a825e4306efe20e9464bfdc128d92df2/9.png)
 
 ### 10. Store with Most Revenue
-![Highest Revenue Store](
+![Highest Revenue Store](https://github.com/YadavBarkha/Movies_Rental/blob/10401811a825e4306efe20e9464bfdc128d92df2/10.png)
 
 ### 11. Monthly Rentals Count
-![Rentals Per Month](
+![Rentals Per Month](https://github.com/YadavBarkha/Movies_Rental/blob/10401811a825e4306efe20e9464bfdc128d92df2/11.png)
 
 ### 12. Customers Eligible for Rewards
-![Reward Eligible Customers]
+![Reward Eligible Customers](https://github.com/YadavBarkha/Movies_Rental/blob/10401811a825e4306efe20e9464bfdc128d92df2/12.png)
 
 ### 13. Payments from First 100 Customers
-![First 100 Customer Payments]
+![First 100 Customer Payments](https://github.com/YadavBarkha/Movies_Rental/blob/10401811a825e4306efe20e9464bfdc128d92df2/13.png)
 
 ### 14. Payments Over $5 Since Jan 1, 2006
-![Payments Over $5](
+![Payments Over $5](https://github.com/YadavBarkha/Movies_Rental/blob/10401811a825e4306efe20e9464bfdc128d92df2/14.png)
 
 ### 15. Payments Over $5 for Specific Customers
-![Payments Over $5](
+![Payments Over $5](https://github.com/YadavBarkha/Movies_Rental/blob/10401811a825e4306efe20e9464bfdc128d92df2/15.png)
 
 ### 16. Films with 'Behind the Scenes' Special Feature
-![Behind the Scenes Films](
+![Behind the Scenes Films](https://github.com/YadavBarkha/Movies_Rental/blob/10401811a825e4306efe20e9464bfdc128d92df2/16.png)
 
 ### 17. Unique Movie Ratings and Count
-![Unique Ratings]
+![Unique Ratings](https://github.com/YadavBarkha/Movies_Rental/blob/10401811a825e4306efe20e9464bfdc128d92df2/17.png)
 
 ### 18. Titles Count by Rental Duration
-![Rental Duration Count](
+![Rental Duration Count](https://github.com/YadavBarkha/Movies_Rental/blob/10401811a825e4306efe20e9464bfdc128d92df2/18.png)
 
 ### 19. Ratings, Movie Count, Length, and Rental Duration
-![Ratings and Rental Duration](
+![Ratings and Rental Duration](https://github.com/YadavBarkha/Movies_Rental/blob/10401811a825e4306efe20e9464bfdc128d92df2/19.png)
 
 ### 20. Film Count by Replacement Cost with Rental Rates
-![Replacement Cost Analysis](
+![Replacement Cost Analysis](https://github.com/YadavBarkha/Movies_Rental/blob/10401811a825e4306efe20e9464bfdc128d92df2/20.png)
 
 ### 21. Customers with Less Than 15 Rentals
-![Low Rental Customers](
+![Low Rental Customers](https://github.com/YadavBarkha/Movies_Rental/blob/10401811a825e4306efe20e9464bfdc128d92df2/21.png)
+
 ### 22. Longest Films Sorted by Length and Rental Rate
-![Longest Films](
+![Longest Films](https://github.com/YadavBarkha/Movies_Rental/blob/10401811a825e4306efe20e9464bfdc128d92df2/22.png)
+
 ### 23. Categorization of Movies by Length
-![Movies Categorized by Length](
+![Movies Categorized by Length](https://github.com/YadavBarkha/Movies_Rental/blob/10401811a825e4306efe20e9464bfdc128d92df2/23.png)
+
 ### 24. Movie Recommendations by Age Group
-![Age-Based Recommendations]
+![Age-Based Recommendations](https://github.com/YadavBarkha/Movies_Rental/blob/10401811a825e4306efe20e9464bfdc128d92df2/24.png)
+
 ### 25. Films Inventory List
-![Films in Inventory](
+![Films in Inventory](https://github.com/YadavBarkha/Movies_Rental/blob/10401811a825e4306efe20e9464bfdc128d92df2/25.png)
+
 ### 26. Actor Movie Count
-![Actor Movie Count](
+![Actor Movie Count](https://github.com/YadavBarkha/Movies_Rental/blob/10401811a825e4306efe20e9464bfdc128d92df2/26.png)
+
 ### 27. Number of Actors per Film
-![Actors per Title]
+![Actors per Title](https://github.com/YadavBarkha/Movies_Rental/blob/10401811a825e4306efe20e9464bfdc128d92df2/27.png)
 
 ### 28. List of Staff and Advisors
-![Staff and Advisors](
+![Staff and Advisors]()
 ---
 
